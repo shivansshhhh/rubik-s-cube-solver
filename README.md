@@ -7,21 +7,6 @@ Python 3 and OpenCV.
 - :mag: Accurate 3x3x3 rubik's cube detection
 - :capital_abcd: Multilingual
 
-### Solve mode
-
-![solve mode](./demo-solve-mode.jpg)
-
-### Calibrate mode
-
-Isn't the default color detection working out for you? Use the **calibrate
-mode** to let Qbr be familiar with your cube's color scheme. If your room has
-proper lighting then this will give you a 99.9% guarantee that your colors will
-be detected properly.
-
-Simply follow the on-screen instructions and you're ready to go.
-
-![calibrate mode](./demo-calibrate-mode.jpg)
-![calibrate mode success](./demo-calibrate-mode-success.jpg)
 
 # Table of Contents
 
