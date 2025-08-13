@@ -35,7 +35,7 @@ Python 3 and OpenCV.
 
 The idea to create this came personally to mind when I started solving rubik's
 cubes. There were already so many professional programmers around the world who
-created robots that solve a rubik's cube in an ETA of 5 seconds and since 2016
+created robots that solve a rubik's cube in an ETA of 5 seconds and since 2024
 in 1 second .
 That inspired me to create my own. I started using images only and eventually
 switched to webcam.
